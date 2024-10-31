@@ -8,7 +8,7 @@ The repository is organized into folders, each corresponding to a different Java
 Feel free to explore the repository and choose the topics or questions that align with your learning goals. Solve the questions, analyze the solutions, and challenge yourself to optimize the code further. It's all about building your JavaScript skills and gaining confidence in your abilities.
 
 ## Contributions
-Contributions to this repository are welcome! If you have a new JavaScript question, an improved solution, or a suggestion to enhance the repository, feel free to submit a pull request. Let's make this resource even more valuable for the SQL learning community.
+Contributions to this repository are welcome! If you have a new JavaScript question, an improved solution, or a suggestion to enhance the repository, feel free to submit a pull request. Let's make this resource even more valuable for the JavaScript learning community.
 
 ## Acknowledgments
 This repository is inspired by the LeetCode platform and its curated collection of JavaScript questions. Special thanks to LeetCode for providing an excellent platform for practicing coding skills.
